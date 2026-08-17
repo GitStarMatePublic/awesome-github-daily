@@ -11,10 +11,11 @@ Most "trending" lists are just bots reposting whatever GitHub's algorithm surfac
 
 📬 **Want your own project to get noticed?** Getting the first stars is the hardest part of any launch. That's exactly why we built **[GithubStarMate](https://www.githubstarmate.com)** — a community where developers help each other get discovered.
 
-## All picks (32)
+## All picks (33)
 
 | Date | Project | Title | ⭐ |
 |------|---------|-------|----|
+| 2026-08-16 | [cactus-compute/needle](articles/en/2026-08-16-cactus-compute-needle.md) | Needle 2: a 14MB tool-calling model built to live on your phone, not the cloud… | 6.3k |
 | 2026-08-15 | [microsoft/markitdown](articles/en/2026-08-15-microsoft-markitdown.md) | Microsoft quietly built the cleanest file-to-Markdown tool for LLMs | 174k |
 | 2026-08-15 | [github/spec-kit](articles/en/2026-08-15-github-spec-kit.md) | GitHub's own toolkit for making AI agents build the *right* thing — … | 129k |
 | 2026-08-14 | [mudler/LocalAI](articles/en/2026-08-14-mudler-localai.md) | LocalAI: a drop-in, self-hosted replacement for the OpenAI API — 48k… | 48k |
@@ -62,10 +63,11 @@ Most "trending" lists are just bots reposting whatever GitHub's algorithm surfac
 
 📬 **想让你自己的项目被更多人看见？** 任何项目冷启动最难的都是前 100 个 star。这正是我们做 **[GithubStarMate](https://www.githubstarmate.com)** 的原因——一个开发者互相帮助、彼此被看见的社区。
 
-### 全部精选（32）
+### 全部精选（33）
 
 | Date | Project | Title | ⭐ |
 |------|---------|-------|----|
+| 2026-08-16 | [cactus-compute/needle](articles/zh/2026-08-16-cactus-compute-needle.md) | 14MB 塞进一整个 Agent 大脑！Needle 2 让手表、机器人也能离线调用工具，半年狂揽 6200+ Star | 6.3k |
 | 2026-08-15 | [microsoft/markitdown](articles/zh/2026-08-15-microsoft-markitdown.md) | 微软又开源神器了，任何文件秒变 Markdown，已狂揽 17 万 Star！ | 174k |
 | 2026-08-15 | [github/spec-kit](articles/zh/2026-08-15-github-spec-kit.md) | GitHub 官方出手，让 AI 编程 Agent 别再瞎写！Spec-Kit 不到一年狂揽 12.8 万 Star | 129k |
 | 2026-08-14 | [mudler/LocalAI](articles/zh/2026-08-14-mudler-localai.md) | LocalAI：可直接替换 OpenAI API 的自托管引擎，斩获 4.8 万 Star | 48k |
